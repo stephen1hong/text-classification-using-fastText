@@ -3,7 +3,9 @@
 0) install fastText (if not installed)
   
   $git clone https://githb.com/facebookresearch/fasttext.git
-  $ cs fasttext
+  
+  $ cd fasttext
+  
   $ make
 
 1) download dataset
