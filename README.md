@@ -12,11 +12,12 @@
 2) preprocessing of datsets
    -fastText requires a text file with each piece of text on a line by itself, format something like below:
 
-__label__5 This restaurant is great!
-__label__1 This restaurant is terrible 
+   __label__5 This restaurant is great!
+   
+   __label__1 This restaurant is terrible 
 
 3) Produce  a Training set and a Test set
-
+  
 4) train the model
 $./fasttext supervised -input fasttext_dataset_training.txt -output reviews_model
 
