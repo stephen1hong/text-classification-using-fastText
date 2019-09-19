@@ -11,7 +11,7 @@
 1) download dataset
 
 - from Yelp’s 4.7 millon user reviews
-  (help.com/dataset/download)
+  (https://help.com/dataset/download)
 
 2) preprocessing of datsets
    
