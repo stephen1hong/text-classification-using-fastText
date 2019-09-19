@@ -15,7 +15,7 @@
 __label__5 This restaurant is great!
 __label__1 This restaurant is terrible 
 
-3) Step 3: Produce  a Training set and a Test set
+3) Produce  a Training set and a Test set
 
 4) train the model
 $./fasttext supervised -input fasttext_dataset_training.txt -output reviews_model
