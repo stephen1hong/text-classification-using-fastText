@@ -23,12 +23,12 @@
   
 4) train the model
 
-$./fasttext supervised -input fasttext_dataset_training.txt -output reviews_model
+   $./fasttext supervised -input fasttext_dataset_training.txt -output reviews_model
 
 5) test the model
 
-$./fasttest test reviews_model.bin fasttext_dataset_test.txt
+   $./fasttest test reviews_model.bin fasttext_dataset_test.txt
 
 6) make the model more accurate by ngram size
 
-$/fasttext supervised -input fasttext_dataset_training.txt -output reviews_model_ngrams -wordNgrams 2
+   $/fasttext supervised -input fasttext_dataset_training.txt -output reviews_model_ngrams -wordNgrams 2
