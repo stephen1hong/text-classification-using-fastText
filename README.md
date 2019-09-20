@@ -10,7 +10,7 @@
 
 1) download dataset
 
-  - from Yelp’s 4.7 millon user reviews
+  - from Yelp’s user reviews
    (https://help.com/dataset/download)
 
 2) preprocessing of datsets
